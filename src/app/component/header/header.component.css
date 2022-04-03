@@ -1,0 +1,23 @@
+.fa-shipping-fast {
+  font-size: 1.5rem;
+  color: white;
+}
+.text {
+  font-size: 1.3rem;
+}
+.form-control {
+  width: 58%;
+}
+.search-icon {
+  position: absolute;
+  right: 45%;
+  top: 15px;
+  padding: 0.3rem;
+  color: blue;
+}
+.fa-cart-plus {
+  font-size: 1.5rem;
+}
+.badge {
+  font-size: 0.6rem;
+}

@@ -1,0 +1,46 @@
+.item {
+  padding: 0.5rem;
+}
+.item img {
+  width: 4rem;
+}
+.item h6 {
+  font-size: 0.7rem;
+}
+.card {
+  padding: 1rem;
+  margin: 1rem;
+}
+.image {
+  width: 100%;
+  height: 15rem;
+}
+.img-fluid {
+  width: 100%;
+  height: 15rem;
+  transition: 0.3s ease-in-out;
+}
+
+.card-title {
+  margin-top: 1rem;
+  font-size: 1rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.title {
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.description {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 100ch;
+}
+.cardBody {
+  height: 70vh;
+  overflow-y: scroll;
+}
